@@ -10,4 +10,4 @@ Add sin/cos/tan and the anti op of it, essentially Scientific Calculator functio
 - How to compile<br>
 Use Visual Studio 2019.<br>
 Simply clone the repository to your Visual Studio and compile with platform toolset of C++ toolkit you want.<br>
-I compile using Visual Studio 2015 - Windows XP (v140_xp).<br>
+I compile using Visual Studio 2017 - Windows XP (v140_xp).<br>
