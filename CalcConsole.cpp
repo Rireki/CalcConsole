@@ -1,3 +1,21 @@
+/*
+  Name: CALCULATOR v1.0
+  Author: Aldo Ziflaj
+  Date: 01-01-2013 12:01
+  Description: A simple calculator that can add, subtract multiply, divide,
+               raise to n-th integer power and calculate the factorial
+
+ Name: Calculator v1.1
+ Author: Riri Furikawa
+ Date: 25-05-2024 18:19
+ Description: Added exception if anything except number and arithmetic operations were entered
+
+ Name: Calculator v1.2
+ Author: Riri Furikawa
+ Date: 14-06-2024 13:48
+ Description: Complete refactor. Added comments for ease of understanding. Added multiple expression support.
+*/
+
 #include <iostream> // Include the library for input and output
 #include <string>   // Include the library for using strings
 #include <sstream>  // Include the library for string streams
